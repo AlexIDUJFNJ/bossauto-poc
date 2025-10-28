@@ -147,9 +147,9 @@ Automotive/
 
 ## Contacto
 
-**Developer**: Quantum Team
-**Email**: quantum@webscansearch.name
-**Upwork**: [Tu perfil]
+**Developer**: Alexandr Konyashin
+**Email**: realpurposeofthis@gmail.com
+**Upwork**: https://www.upwork.com/freelancers/yourmvp
 
 ---
 

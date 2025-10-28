@@ -399,4 +399,6 @@ Once PoC is working:
 
 ---
 
-**Support**: quantum@webscansearch.name
+**Developer**: Alexandr Konyashin
+**Email**: realpurposeofthis@gmail.com
+**Upwork**: https://www.upwork.com/freelancers/yourmvp
